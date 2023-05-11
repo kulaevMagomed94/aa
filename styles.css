@@ -1,0 +1,28 @@
+.header{
+    border: 2px solid black;
+    text-align: center;
+}
+.header-little{
+    font-size: 25px;
+}
+.my_products-item{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.product-title{
+    font-size: 39px;
+}
+.reviews{
+    display: flex;
+    justify-content: space-around;
+}
+.review-user{
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    margin-top: 50px;
+}
